@@ -1,5 +1,5 @@
 # Kuroi
-Kuroi is a dark themed QT stylesheet for RPCS3 and Dolphin.
+This is a fork of Kuroi for get a more dark background
 
 ## Dolphin Preview
 ![Dolphin GUI](images/Dolphin.png)
